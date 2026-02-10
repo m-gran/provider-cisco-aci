@@ -7,7 +7,7 @@ import (
 
 // Package type metadata.
 const (
-	Group   = "template.crossplane.io"
+	Group   = "provider-cisco-aci.aci.crossplane.io"
 	Version = "v1alpha1"
 )
 

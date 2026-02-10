@@ -7,7 +7,7 @@ import (
 
 	"github.com/crossplane/upjet/v2/pkg/pipeline"
 
-	"github.com/crossplane/upjet-provider-template/config"
+	"github.com/m-gran/provider-provider-cisco-aci/config"
 )
 
 func main() {
